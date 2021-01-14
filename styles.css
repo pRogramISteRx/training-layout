@@ -1,0 +1,63 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper {
+    width: 1024px;
+    margin: 66px 57px 0;
+}
+
+.title-text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.red-text {
+    color: red;;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.description {
+    width: 910px;
+    height: 108px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 15px;
+    margin-bottom: 49px;
+}
+
+.data-info {
+    font-style: normal;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.info {
+    font-style: normal;
+    font-size: 14px;
+    line-height: 130%;
+}
+
+.info_experience,
+.info_education {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 130%;
+}
+
+.info_experience__list,
+.info_education__list {
+    padding-left: 15px;
+}
